@@ -26,9 +26,10 @@
   - your account is not named in a manner that misleads your readers into thinking that you are another person or company. For example, your account name is not the name of a person other than yourself or company other than your own; and
   - you have, in the case of Content that includes computer code, accurately categorized and/or described the type, nature, uses and effects of the materials, whether requested to do so by Empirical or otherwise.
 
-  By submitting Content to Empirical for inclusion on your Website, you grant Empirical a world-wide, royalty-free, and non-exclusive license to reproduce, modify, adapt and publish the Content solely for the purpose of displaying, distributing and promoting your content. If you delete Content, Empirical will use reasonable efforts to remove it from the Website, but you acknowledge that caching or references to the Content may not be made immediately unavailable.
 
-  Without limiting any of those representations or warranties, Empirical has the right (though not the obligation) to, in Empirical’s sole discretion (i) refuse or remove any content that, in Empirical’s reasonable opinion, violates any Empirical policy or is in any way harmful or objectionable, or (ii) terminate or deny access to and use of the Website to any individual or entity for any reason, in Empirical’s sole discretion. Empirical will have no obligation to provide a refund of any amounts previously paid.
+By submitting Content to Empirical for inclusion on your Website, you grant Empirical a world-wide, royalty-free, and non-exclusive license to reproduce, modify, adapt and publish the Content solely for the purpose of displaying, distributing and promoting your content. If you delete Content, Empirical will use reasonable efforts to remove it from the Website, but you acknowledge that caching or references to the Content may not be made immediately unavailable.
+
+Without limiting any of those representations or warranties, Empirical has the right (though not the obligation) to, in Empirical’s sole discretion (i) refuse or remove any content that, in Empirical’s reasonable opinion, violates any Empirical policy or is in any way harmful or objectionable, or (ii) terminate or deny access to and use of the Website to any individual or entity for any reason, in Empirical’s sole discretion. Empirical will have no obligation to provide a refund of any amounts previously paid.
 
 ## Payment
 
