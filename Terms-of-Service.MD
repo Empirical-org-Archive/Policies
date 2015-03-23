@@ -15,16 +15,16 @@
 ##  Responsibility of Contributors. 
 
   If you post material to the Website, post links on the Website, or otherwise make (or allow any third party to make) material available by means of the Website (any such material, “Content”), You are entirely responsible for the content of, and any harm resulting from, that Content. That is the case regardless of whether the Content in question constitutes text, graphics, an audio file, or computer software. By making Content available, you represent and warrant that:
-  ul
+
   - the downloading, copying and use of the Content will not infringe the proprietary rights, including but not limited to the copyright, patent, trademark or trade secret rights, of any third party;
   - if your employer has rights to intellectual property you create, you have either (i) received permission from your employer to post or make available the Content, including but not limited to any software, or (ii) secured from your employer a waiver as to all rights in or to the Content;
   - you have fully complied with any third-party licenses relating to the Content, and have done all things necessary to successfully pass through to end users any required terms;
-    li the Content does not contain or install any viruses, worms, malware, Trojan horses or other harmful or destructive content;
-    li the Content is not spam, is not machine- or randomly-generated, and does not contain unethical or unwanted commercial content designed to drive traffic to third party sites or boost the search engine rankings of third party sites, or to further unlawful acts (such as phishing) or mislead recipients as to the source of the material (such as spoofing);
-    li the Content is not pornographic, does not contain threats or incite violence, and does not violate the privacy or publicity rights of any third party;
-    li your content is not getting advertised via unwanted electronic messages such as spam links on newsgroups, email lists, other blogs and web sites, and similar unsolicited promotional methods;
-    li your account is not named in a manner that misleads your readers into thinking that you are another person or company. For example, your account name is not the name of a person other than yourself or company other than your own; and
-    li you have, in the case of Content that includes computer code, accurately categorized and/or described the type, nature, uses and effects of the materials, whether requested to do so by Empirical or otherwise.
+  - the Content does not contain or install any viruses, worms, malware, Trojan horses or other harmful or destructive content;
+  - the Content is not spam, is not machine- or randomly-generated, and does not contain unethical or unwanted commercial content designed to drive traffic to third party sites or boost the search engine rankings of third party sites, or to further unlawful acts (such as phishing) or mislead recipients as to the source of the material (such as spoofing);
+  - the Content is not pornographic, does not contain threats or incite violence, and does not violate the privacy or publicity rights of any third party;
+  - your content is not getting advertised via unwanted electronic messages such as spam links on newsgroups, email lists, other blogs and web sites, and similar unsolicited promotional methods;
+  - your account is not named in a manner that misleads your readers into thinking that you are another person or company. For example, your account name is not the name of a person other than yourself or company other than your own; and
+  - you have, in the case of Content that includes computer code, accurately categorized and/or described the type, nature, uses and effects of the materials, whether requested to do so by Empirical or otherwise.
 
   By submitting Content to Empirical for inclusion on your Website, you grant Empirical a world-wide, royalty-free, and non-exclusive license to reproduce, modify, adapt and publish the Content solely for the purpose of displaying, distributing and promoting your content. If you delete Content, Empirical will use reasonable efforts to remove it from the Website, but you acknowledge that caching or references to the Content may not be made immediately unavailable.
 
