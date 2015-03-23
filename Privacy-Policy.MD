@@ -9,8 +9,7 @@
 
   Your use of our Website means that you specifically and expressly consent to all practices described below in this Privacy Policy and our Terms of Service, as amended from time to time. Any information you provide to us or the Website, along with your use of the Website, is subject to the terms in this Privacy Policy and our Terms of Service, as amended from time to time.
 
-## 
-  How data is used and collected:
+## How data is used and collected:
 
   **Quill.org collects the following data about our users and their use of our Website.**
 
@@ -34,8 +33,7 @@
 
       We may record technical information such as your Internet Protocol (IP) address, internet service provider, browser type, operating system, the dates and times the Website is visited, referring or exit pages, and other data which tracks users' access to the Website.  This data may be analyzed for the aggregate trends they reveal about our users and how the users use the Website.
 
-## 
-  How we use this information:
+##  How we use this information:
 
 *   **To personalize and maximize learning experiences.**
 
@@ -45,13 +43,11 @@
 
       We use information provided by, or collected from, users to create new features, analyze trends and metrics, and learn information about our users’ preferences.
 
-## 
-  Limitations on access to your Personal Information by employees and authorized parties:
+## Limitations on access to your Personal Information by employees and authorized parties:
 
   Our employees and affiliates will not access your Personal Information without a specific reason to do so.  Often this reason will be to better serve you in the event of a support issue (for example, we may look up your operating system and web browser if you write to us saying you are having a problem with the Website).
 
-## 
-  How your data is shared and transferred.
+## How your data is shared and transferred.
 
   **We disclose user information only as described below:**
 
@@ -83,8 +79,7 @@
 
       We may share information about aggregated and/or anonymized data with our partners.
 
-## 
-  Your options and choices in our data use, collection, and transfer:
+## Your options and choices in our data use, collection, and transfer:
 
 *   **You can choose to not provide us with Personal Information**
 
@@ -94,11 +89,9 @@
 
       To ensure that you have control over your information, we will respond as quickly as possible to any request to correct, edit or delete Personal Information.  If you would like this information changed or removed, please contact us at hello@quill.org.
 
-## 
-  Children Users
+##  Children Users
 
-### 
-  Children’s Online Privacy Protection Act (COPPA)
+### Children’s Online Privacy Protection Act (COPPA)
 
   To comply with COPPA, we only collect Personal Information from children under 13 after the student’s school, district or teacher has agreed to obtain parental consent for that child to use our Website and to provide us with Personal Information.
 
@@ -110,8 +103,7 @@
 
   If you are signing up for the Website and creating accounts on behalf of student(s), you represent and warrant that you are either (a) a teacher or school administrator or otherwise authorized by a school or district to sign up on behalf of students, or (b) the parent of such student(s).  If you are a school, district, or teacher, you represent and warrant that you are solely responsible for complying with Children’s Online Privacy Protection Act (COPPA) and all similar applicable laws, meaning that you must obtain advance written consent from all parents or guardians whose children under 13 will be accessing the Services.  When obtaining consent, you must provide parents and guardians with this Privacy Policy and our Terms of Use.  You must keep all consents on file and provide them to us if we request them.  If you are a teacher, you represent and warrant that you have permission and authorization from your school and/or district to use the Services as part of your curriculum, and for purposes of COPPA compliance, you represent and warrant that you are agreeing to this Privacy Policy and our Terms of Use on behalf of your school and/or district.
 
-## 
-  How we handle data security
+## How we handle data security
 
 *   **Keeping your information secure**
 
@@ -125,18 +117,15 @@
 
       If a security incident involving your Personal Information does occur, we will notify you and any other users that may have been affected as soon as possible after we learn of the security incident. This notification may occur electronically, or via a notice posted on the Website.
 
-## 
-  Links to third party sites
+## Links to third party sites
 
   In some cases, the Website may link to third party websites.  These links may include social media pages, partner organizations, or any other website.  We cannot control the activities or content that exists on these sites, and they may change without our knowledge.  This Privacy Policy does not apply to those websites, or any other website that is not part of the Website.
 
-## 
-  Changes and updates to this Privacy Policy
+## Changes and updates to this Privacy Policy
 
   We may revise this Privacy Policy from time to time. We will notify users of any change to our Privacy Notice by posting the revised Privacy Policy with an updated date of revision on our Website.  The revised Privacy Policy will become effective upon such posting.
 
-## 
-  Contacting Us
+## Contacting Us
 
   If you have any questions regarding this Privacy Policy, comments, or would like to know what Personal Information has been collected about you, please contact us by emailing hello@quill.org or writing to:
 
